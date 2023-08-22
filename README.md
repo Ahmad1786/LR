@@ -1,2 +1,2 @@
 # LR
-Implement Linear Regression from scratch
+Implement Linear Regression from scratch with different variations
